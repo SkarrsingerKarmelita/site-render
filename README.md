@@ -8,4 +8,4 @@ A collection of self-written programs for simple website rendering by URL, in or
 programms:
 1. main.py - view page code
 2. main1.py - easy site rendering
-3. main2.py - check the script for malicious lines of code
+3. main2.py - check the script for malicious lines of code.
